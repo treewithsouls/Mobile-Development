@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:testappgulyaev/presentation/details_page/details_page.dart';
+import 'package:testappkirsanov/presentation/details_page/details_page.dart';
 
 part 'card.dart';
 
@@ -36,14 +36,14 @@ class MyWidget extends StatelessWidget {
     final data = [
       CardData(
           'Меню',
-          descriptionText: 'Сделайте свой день ярче! Попробуйте новое меню',
+          descriptionText: 'Сделайте свой день лучше! Попробуйте новое меню',
           icon: Icons.restaurant_menu,
           imageUrl:
           'https://bk43.ru/assets/images/0000000000000000000000000000000000000______0000000000000000000000000/2013-1-12-019.jpg'
       ),
       CardData(
           'Подарочная карта',
-          descriptionText: 'Найдите идеальный подарок для близких',
+          descriptionText: 'Сделайте подарок для близких!',
           icon: Icons.card_giftcard,
           imageUrl:
           'https://www.pharmacosmetica.ru/files/pharmacosmetica/reg_images/eh99989436614.jpg'
