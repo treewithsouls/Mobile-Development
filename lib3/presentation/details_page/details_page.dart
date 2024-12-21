@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:testappgulyaev/presentation/home_page/home_page.dart';
+import 'package:testappkirsanov/presentation/home_page/home_page.dart';
 
 class DetailsPage extends StatelessWidget {
   final CardData data;
