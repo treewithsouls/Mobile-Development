@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:testappgulyaev/presentation/home_page/home_page.dart';
+import 'package:testappkirsanov/presentation/home_page/home_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Гуляев Д.А. ВТАСбзу-31'),
+      home: const MyHomePage(title: 'Кирсанов В.А. ВТАСбзу-31'),
     );
   }
 }
